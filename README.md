@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yongaakhe
 - 👀 I’m interested in software development, machine learning, data science.
-- 🌱 I’m currently learning Software engineering with ALX.
+- 🌱 I’m currently pursuing a qualification in Software engineering with ALX.
 - 💞️ I’m looking to collaborate on projects and also learning from everyone.
 - 📫 How to reach me  you can reach me on siphe.boyce@gmail.com and slack as Boyce Siphesihle
 
